@@ -1,1 +1,1 @@
-# KMA
+# Cấu hình router# Đặt tên và địa chỉ IP cho router
